@@ -55,3 +55,5 @@ const werkwoord = ["eats", "cooks", "makes"];
 const restwoord = ["a sandwich", "a burger", "super death robots"];
 
 let plaatjes = ["https://static-asset-delivery.hasbroapps.com/a9e79c9b34ea183cad07eb995c5f51818b6c9447/0465731939d703d10b45538ff8e0efbb.png", "https://i.chzbgr.com/full/9303074560/h622371A6", "https://www.pngitem.com/pimgs/m/235-2359071_tf2-sandvich-hd-png-download.png"]
+
+let arrayLength = onderwerp.length;
